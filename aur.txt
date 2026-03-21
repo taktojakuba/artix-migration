@@ -1,0 +1,14 @@
+ani-cli
+envycontrol
+mangowm-git
+millennium
+mpvpaper
+noctalia-shell
+peaclock
+python-pywalfox
+rog-control-center
+vesktop
+visual-studio-code-bin
+wlctl-bin
+wlroots-nvidia
+yay

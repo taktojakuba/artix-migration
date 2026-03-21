@@ -1,0 +1,15 @@
+adw-gtk-theme autotiling-rs base base-devel bluetui bluez bluez-utils \
+brightnessctl btop caligula cava clang cliphist dmenu \
+efibootmgr fastfetch fd firefox flatpak foot fzf gamemode \
+git gnome-disk-utility go grim gst-plugin-pipewire htop intel-media-driver \
+intel-ucode iwd jq kew lazygit libpulse libva-intel-driver \
+ly mako man-db mold mpd neovim networkmanager \
+nvidia-open-dkms nvidia-prime nvidia-settings nvidia-utils nwg-look \
+openssh pipewire pipewire-alsa pipewire-jack pipewire-pulse \
+power-profiles-daemon python-pynvim qt6-multimedia-ffmpeg qt6ct resvg \
+rust smartmontools sof-firmware sudo vim vulkan-intel waybar \
+wayland-protocols wev wget wireless-regdb wireless_tools wiremix \
+wireplumber wl-clipboard wlr-randr wpa_supplicant \
+xdg-desktop-portal-gtk xdg-desktop-portal-wlr xdg-utils \
+xorg-server xorg-xinit xorg-xrandr xorg-xwayland xwayland-satellite \
+zoxide zsh zsh-autosuggestions zsh-syntax-highlighting

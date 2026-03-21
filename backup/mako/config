@@ -1,0 +1,27 @@
+sort=-time
+layer=overlay
+background-color=#1f1e1a
+width=300
+height=110
+icons=0
+font=adwaita mono
+border-size=2
+border-color=#b5a98a
+border-radius=0
+icons=0
+max-icon-size=64
+default-timeout=5000
+ignore-timeout=1
+
+[urgency=low]
+border-color=#c8c2b4
+
+[urgency=normal]
+border-color=#a06a5a
+[urgency=high]
+border-color=#b5a98a
+default-timeout=0
+
+[category=mpd]
+default-timeout=2000
+group-by=category
