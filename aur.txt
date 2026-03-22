@@ -1,14 +1,9 @@
-ani-cli
-envycontrol
 mangowm-git
 millennium
-mpvpaper
+nerdfonts-installer-bin
 noctalia-shell
-peaclock
 python-pywalfox
-rog-control-center
 vesktop
 visual-studio-code-bin
-wlctl-bin
-wlroots-nvidia
-yay
+yay-bin
+yay-bin-debug
